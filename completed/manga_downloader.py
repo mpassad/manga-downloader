@@ -1,6 +1,6 @@
 '''
 +----------------------------------+
-| MANGA DOWNLOADER V1.0 |
+| MANGA DOWNLOADER V1.0            |
 +----------------------------------+
 AUTHOR : PASSADELLIS MICHAEL
 DATE : 11/6/2018 
