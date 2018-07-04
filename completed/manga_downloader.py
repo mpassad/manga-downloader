@@ -10,7 +10,6 @@ import sys
 import time
 from bs4 import BeautifulSoup
 import requests
-import time
 
 # clears the console
 def clear_console():
